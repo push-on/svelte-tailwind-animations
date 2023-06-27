@@ -14,7 +14,7 @@
     </p>
   </div>
   <div
-    class="group block relative w-80 pl-5 py-4 bg-slate-800 text-white text-2xl rounded-xl cursor-pointer">
+    class="group block relative w-80 pl-5 py-4 bg-slate-800 text-white text-2xl rounded-xl cursor-pointer select-none">
     <ul
       class="bg-slate-800 p-2 absolute top-14 left-0 right-0 h-0 duration-500 transition-all ease-in-out w-full group-hover:h-56 group-hover:translate-y-0 group-hover:opacity-100 opacity-0 rounded-b-xl">
       {#each items as item}
