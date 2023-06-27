@@ -11,6 +11,6 @@
       href="/ExpandingDock">Dock Animation: Expand</a>
     <a
       class="duration-200 underline underline-offset-4 text-gray-300 hover:text-gray-50 hover:underline-offset-8 hover:decoration-purple-600"
-      href="/ExpandingDock_2">Dock Animation: Expand 2</a>
+      href="/DropDownMenu">Drop Down menu Animation </a>
   </div>
 </div>
